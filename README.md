@@ -4,6 +4,22 @@ This GitBook documents a sequence of Python notebook experiments on **XAUUSD H1*
 
 > **Research status:** The findings in this book are historical exploratory backtest results, not a validated trading system. They are not evidence of live profitability and should not be used as a standalone basis for risking capital.
 
+## Acknowledgement & Attribution
+
+The N-Pattern trading method explored in this research is acknowledged as a trading approach popularized within the Indonesian trading community by **Tito Hayunanda through Traders Family**.
+
+This research recognizes Traders Family's educational contribution in introducing and teaching the N-Pattern methodology to Indonesian traders.
+
+**About this implementation:** This project is an independent quantitative research and backtesting implementation inspired by the N-Pattern approach. The trading rules, swing-point definitions, entry and exit conditions, ATR buffers, and position-management logic have been explicitly operationalized for systematic testing in Python.
+
+The implementation should not be interpreted as an official Traders Family strategy specification, nor does it claim to reproduce every rule taught by Tito Hayunanda or Traders Family.
+
+This project is independently developed for educational and quantitative research purposes. It is not affiliated with, endorsed by, or sponsored by Traders Family or Tito Hayunanda.
+
+**References:**
+- [Traders Family — Official Website](https://tradersfamily.id/)
+- [Traders Family — YouTube Channel](https://www.youtube.com/@KomunitasTraderFamily)
+
 ## What this research asks
 
 **Does market-regime classification and swing-structure definition improve the N-Method's risk-adjusted performance on data that was not used to design the rules?**
